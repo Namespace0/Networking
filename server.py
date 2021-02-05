@@ -12,7 +12,7 @@ SRC = "192.168.1.188";
 sock.bind((SRC, port))
 
 
-IP_TABLE {
+IP_TABLE = {
 	"Admin" : "35.188.146.38",
 }
 
